@@ -1,2 +1,2 @@
 # dump
-Space for quikly sharing buggy code with other devs
+Space for quickly sharing buggy code with other devs
